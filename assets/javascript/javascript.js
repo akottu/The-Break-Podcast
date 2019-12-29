@@ -21,6 +21,6 @@ $('#guests-header-button').click(function(){
    window.location.href='guests.html';
 })
 
-$('#store-header-button').click(function(){
-   window.location.href='store.html';
+$('#contact-header-button').click(function(){
+   window.location.href='contact.html';
 })
